@@ -1,0 +1,28 @@
+:root {
+    --grey: #242324;
+    --neon-purple: #ba04a8;
+}
+
+body {
+    background-color: var(--grey);
+}
+
+h1 {
+color: var(--neon-purple);
+text-align: center;
+font-family: sans-serif;
+}
+
+h3 {
+    color: var(--neon-purple);
+}
+
+h4 {
+    color: var(--neon-purple);
+    text-align: center;
+    font-family: sans-serif;
+}
+
+p {
+    color: var(--neon-purple);
+}
